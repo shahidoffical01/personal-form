@@ -1,0 +1,13 @@
+body{
+	background-image: url('../img/4.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.boxes {
+	text-align: center;
+}
+.boxes h1 {
+	color: red;
+}
